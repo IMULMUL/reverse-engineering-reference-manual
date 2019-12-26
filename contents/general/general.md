@@ -23,10 +23,21 @@ __What is Reverse Engineering?__
 ---
 ### *<p align='center'> further readings </p>*
 ---
-* [Malware Unicorn's Reverse Engineering Malware 101](https://securedorg.github.io/RE101/): a nice overview on malware analysis
-* [XOR06](https://xor06.wordpress.com/tutorials/): author of [The Legend Of Random](http://octopuslabs.io/legend/blog/sample-page.html)'s new software cracking blog
-* [Reverse Engineering for Beginners](https://beginners.re/): a free and comprehensive book on reverse engineering
+* Free and Comprehensive Reverse Engineering Tutorials
+  * [Reverse Engineering Workshops](https://malwareunicorn.org/#/workshops) ([@malwareunicorn](https://twitter.com/malwareunicorn))
+  * [Reverse Engineering for Beginners](https://www.begin.re/) ([@OphirHarpaz](https://twitter.com/OphirHarpaz))
+  * [Reverse Engineering for Beginners](https://beginners.re/) ([Dennis Yurichev](https://yurichev.com/))
+  * [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/) ([@maddiestone](https://twitter.com/maddiestone))
+  * [Binary Analysis Course](https://maxkersten.nl/) ([@LibraAnalysis](https://twitter.com/libraanalysis))
+  * [ReversingHero](https://www.reversinghero.com/)
+  * [XOR06](https://xor06.wordpress.com/tutorials/) (same author that made [The Legend Of Random](http://octopuslabs.io/legend/blog/sample-page.html))
+* Reverse Engineering Forums
+  * [0x00SEC](https://0x00sec.org)
+  * [BinaryNinja's Slack Channel](https://binaryninja.slack.com/)
+  * [Reverse Engineering's subreddit](https://www.reddit.com/r/ReverseEngineering/)
+  * [Reverse Engineering's StackExchange](https://reverseengineering.stackexchange.com/)
 * [Full-Stack Reverse Engineer](https://twitter.com/daeken/status/1025123319824244738?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet): [@daeken](https://twitter.com/daeken)'s steps to getting the base knowledge for reversing anything ([video presentation](https://www.youtube.com/watch?v=9vKG8-TnawY))
+* [Program Analysis Reading List](https://www.msreverseengineering.com/program-analysis-reading-list/) ([@RolfRolles](https://twitter.com/RolfRolles))
 
 #
 <strong><p align='center'><a href="/contents/encodings/encodings.md">.encodings</a> <- <a href="/README.md#-reverse-engineering-reference-manual-beta-">RERM</a> -> <a href="/contents/tools/tools.md">.tools</a></p></strong>
